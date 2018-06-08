@@ -1,0 +1,28 @@
+{
+  "name": "webpersonal",
+  "version": "1.0.0",
+  "description": "my personal website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobra27/Personal-Website.git"
+  },
+  "author": "Abhik Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobra27/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/cobra27/Personal-Website#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.2.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "npm": "^6.0.1",
+    "path": "^0.12.7",
+    "sendgrid": "^5.2.3",
+    "sendgrid-web": "0.0.5"
+  }
+}
